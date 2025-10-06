@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SeninUsername/MaqaScpV1/main/Main.lua"))()
+https://raw.githubusercontent.com/SENIN_ADIN/MaqaScpV1/main/Main.lua
